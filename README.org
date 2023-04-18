@@ -1,7 +1,5 @@
 * Hey all, I'm Bryan 👋
 
-I'm a software engineer focussed on developer productivity at [[https://www.tweag.io/][Tweag]].
-
 ** Interests 🤔
 
 I'm intersted in all things tech, but if I had to choose, the following would be my top 3.
